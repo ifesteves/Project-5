@@ -27,11 +27,5 @@ Nesta etapa, testaremos a hipótese:
 
 Decidiremos o nível de significância (alfa) e explicaremos como formulamos as hipóteses nula e alternativa, bem como o critério usado para testar a hipótese.
 
-## Como Usar
-Para reproduzir este projeto, você pode clonar este repositório e executar o código Python fornecido em um ambiente Jupyter Notebook.
 
-## Avaliação
-O projeto será avaliado com base nos critérios estabelecidos, incluindo a recuperação e manipulação de dados, formulação e teste de hipóteses, e conclusões tiradas com base nos resultados.
-
-Boa sorte!
 
